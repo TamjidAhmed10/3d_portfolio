@@ -10,7 +10,7 @@ const Hero = () => {
         </div>
         {/* header parts */}
         <div>
-
+           <h1>Hi i am Tamjid Ahmed</h1>
         </div>
       </div>
     </div>
